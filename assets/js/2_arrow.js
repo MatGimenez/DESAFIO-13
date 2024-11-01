@@ -1,3 +1,5 @@
-let suma = (a,b) => a + b ;
+/* let suma = function(a, b){
+    return a + b
+} */
 
-alert(suma(1,27))
+let suma = (a,b) => a + b ;
